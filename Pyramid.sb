@@ -1,0 +1,8 @@
+Turtle.Show()
+Turtle.X="960"
+Turtle.Y="480"
+For i = 1 To 50 
+  Turtle.PenDown()
+  Turtle.TurnRight()
+  Turtle.Move(i*10)
+EndFor
