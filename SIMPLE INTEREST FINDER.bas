@@ -1,0 +1,6 @@
+Input "ENTER PRINCIPLE AMOUNT= ", P
+Input "ENTER TIME= ", T
+Input "ENTER RATE OF INTEREST= ", R
+I = P * T * R / 100
+Print "SIMPLE INTEREST = ", I
+
